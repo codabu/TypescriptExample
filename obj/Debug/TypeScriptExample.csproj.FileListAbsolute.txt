@@ -1,0 +1,7 @@
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\bin\TypeScriptHTMLApp1.dll
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\obj\Debug\TypeScriptExample.csprojAssemblyReference.cache
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\obj\Debug\TypeScriptExample.csproj.CoreCompileInputs.cache
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Corry\Desktop\Spring 2021 Classes\Emerging Technologies\Unit 5 - Typescript\TypeScriptExample\obj\Debug\TypeScriptHTMLApp1.pdb
